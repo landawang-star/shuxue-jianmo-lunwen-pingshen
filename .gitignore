@@ -1,0 +1,15 @@
+# 备份压缩包（源文件已在仓库中，无需上传 zip）
+*.zip
+
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# 编辑器临时文件
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
